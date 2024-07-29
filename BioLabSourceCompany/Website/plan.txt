@@ -1,0 +1,44 @@
+The main goal of the website is to advertise two essential company services:
+    1. We buy/trade/consign lab equipment
+    2. We sell lab equipment
+
+Goals of the content:
+    1. Services have to be clear
+    2. The content has to be searchable by Google
+    3. Visible part of the website must clearly state who we are and what we do. 
+
+Content Structure:
+    1. (Note: Visible part)
+        We Buy/Trade/Consign Lab Equipment
+        We Sell Lab Equipment
+    2. Hero section
+        Your source for Pharmaceutical, Life Sciences, and Biotech lab equipment
+        Transform your underutilized lab equipment into a valuable resource with BioLabSource Company.
+        (Notes: we clearly state which kind of lab equipment we're dealing with)
+    3. Why BioLabSourceCompany?
+        1. You dispose or trade your unused equipment
+        2. You unclutter the space
+        3. We Streamline Lab Equipment Management for you
+        4. We handle equipment selling, logistics, and fund management
+        5. We partner with Pharmaceutical and Biotech Laboratories 
+        6. We sell worldwide
+    4. How It Works
+        Effortless Equipment Disposition
+        1.Inventory Submission:
+            Send us a detailed inventory list of your equipment.
+        2. FREE Consultation:
+            Our team will promptly reach out via email or phone to discuss your inventory.
+        3. Offer Reception:
+            If your inventory catches our interest, we'll present you with an offer. Acceptance leads to a Purchase Order.
+        4. Convenient Pick-Up:
+            Our dedicated logistics team will coordinate a hassle-free pick-up directly from your facility.
+        5. Prompt Payment:
+            Receive payment upon pick-up through wire transfer or check.
+    5. Contact us
+        Get in Touch with Our Support Team
+        We're here to assist you. Fill out the form below and our team will be in touch shortly 
+        to address your inquiries or discuss how we can best support your needs.
+
+        Contact Form
+    
+    

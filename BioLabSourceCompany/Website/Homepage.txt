@@ -1,0 +1,96 @@
+Wireframes
+
+<brand>
+    BioLabSourceCompany
+<menu>
+    Home
+    Why BLSC?
+    Contact  https://www.cognitoforms.com/AlexanderSuleymanov/Contact
+
+<slider>
+    <slide>
+        <header>
+            We Buy/Trade/Consign Lab Equipment
+        <text>
+            BioLabSourceCompany simplifies unused equipment management, 
+            handling quoting to disposal for an efficient workspace. 
+            Our experienced team guides you through the equipment lifecycle, 
+            helping acquire new instruments or remove surplus gear to free up space, 
+            capital and enable new technology investments.
+    <slide>
+        <header>
+            We SELL Lab Equipment
+        <text>
+            Explore our extensive online store for high-quality lab equipment 
+            and components. At BioLabSourceCompany, we offer hundreds of pre-owned 
+            scientific instruments, from analytical devices to laboratory supplies.  
+            Upgrade your lab affordably with our wide selection of top-brand instruments.
+    
+<hero>
+    Your source for Pharmaceutical, Life Sciences, and Biotech lab equipment
+
+<section>
+    <header>
+        Transform your underutilized lab equipment into a valuable resource with BioLabSource Company.
+    <text>
+        If your lab equipment is still in good condition, we'll facilitate a seamless 
+        transaction that not only liberates your valuable space but also puts funds 
+        back in your hands, ready to be reinvested in the equipment that truly advances your goals.
+    <text>
+        Say goodbye to storage woes and embrace a smarter approach to lab equipment management. 
+        BioLabSourceCompany streamlines the entire process, from equipment acquisition to removal, 
+        ensuring you maximize the value of your investments while staying focused on your core objectives.
+    <button>
+        Sell/Trade/Consign Your Equipment
+
+<section>
+    <card>
+        <header>
+            Partnering with Pharmaceutical, Life Sciences, and Biotech Laboratories.
+        <text>
+            Whether your lab needs to liquidate or acquire, one piece or an entire lab, 
+            we are here to help. We value your time with our streamlined process, 
+            so that focus can remain where it's needed most.  
+    <card>
+        <header>
+            Buy Equipment
+        <text>
+            Explore our extensive online store for high-quality lab equipment and components. 
+            At BioLabSourceCompany, we offer hundreds of pre-owned scientific instruments, 
+            from analytical devices to laboratory supplies. 
+            With our 30-day guarantee, you can buy with confidence.
+    <card>
+        <header>
+            Worldwide Services
+        <text>  
+            Safe, fast, and secure. Orders ship within 1 business day from Northern California.
+<section>
+    <header>
+        How it Works
+    <sub-header>
+        Equipment disposition in 5 simple steps.
+    <card>
+        <header>
+            1. Submit Your Inventory
+        <text>
+            Send us your inventory list with as much product details as possible.
+    <card>
+        <header>
+            2. Get A FREE Consultation
+        <text>
+            One of our team members will follow-up with an email or phone call to better discuss your inventory.
+    <card>
+        <header>
+            3. Receive An Offer
+        <text>
+            If your inventory is of interest to us, we'll send you an offer - and if accepted, a Purchase Order.
+    <card>
+        <header>
+            4. Schedule Pick-Up
+        <text>
+            Our logistics team will coordinate a pick-up from your facility.
+    <card>
+        <header>
+            5. Get Paid
+        <text>
+            Get paid upon pickup via wire transfer or check.
